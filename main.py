@@ -2,7 +2,6 @@ import vk
 import yadisk
 import settings
 import json
-from pprint import pprint
 
 vk_api = vk.API(access_token = settings.vk_token, v = '5.199')
 
