@@ -1,0 +1,1 @@
+vk_token = 'insert_yor_token_here'
